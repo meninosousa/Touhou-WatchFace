@@ -1,0 +1,10 @@
+<resources>
+	<bitmap id="id_th06cirno" filename="images/Th06Cirno.png"></bitmap>
+	<bitmap id="id_th06flandre" filename="images/Th06Flandre.png"></bitmap>
+	<bitmap id="id_th06marisa" filename="images/Th06Marisa.png"></bitmap>
+	<bitmap id="id_th06meiling" filename="images/Th06Meiling.png"></bitmap>
+	<bitmap id="id_th06patchouli" filename="images/Th06Patchouli.png"></bitmap>
+	<bitmap id="id_th06reimu" filename="images/Th06Reimu.png"></bitmap>
+	<bitmap id="id_th06remilia" filename="images/Th06Remilia.png"></bitmap>
+	<bitmap id="id_th06rumia" filename="images/Th06Rumia.png"></bitmap>
+	<bitmap id="id_th06sakuya" filename="images/Th06Sakuya.png"></bitmap></resources>
